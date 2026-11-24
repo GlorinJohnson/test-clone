@@ -1,0 +1,13 @@
+Hi. I am Glorin. I am a hard-working engineering graduate specialized in Computer Science and Engineering 
+
+During my engineering, I developed a strong interest in software development and worked on projects using technologies such as Python, SQL, JavaScript, Django, Flask, and AI-based tools. One of my major projects was Minutes Craft, an AI-driven meeting intelligence system that converts meeting recordings into structured meeting minutes. Through this project, I gained experience in Python, Flask, speech recognition, NLP, APIs, and working with different technologies together.
+
+Along with my degree, I completed Python and JavaScript courses and the various technologies I learnt has helped me develop my final year project called Minutes Craft. It was during this project that I discovered that I am a team player.
+
+As a fresher, I am looking for an opportunity where I can apply what I have learned, gain practical industry experience, and continuously improve my cloud and DevOps skills.
+
+I would describe myself as a quick learner, problem solver, good team player, and someone who is willing to take responsibility and learn from challenges.
+
+
+
+Thank you	
